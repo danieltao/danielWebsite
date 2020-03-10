@@ -240,6 +240,8 @@
 
 .contact-section {
   padding: 5rem 0 0;
+  margin: auto;
+  width: 100%;
 }
 
 .contact-section .card {
@@ -272,6 +274,11 @@
   border-radius: 100%;
   line-height: 3rem;
   color: rgba(255, 255, 255, 0.3);
+}
+
+.contact-email-wrapper {
+  width: 25%;
+  margin: auto;
 }
 
 .contact-section .social a:hover {
